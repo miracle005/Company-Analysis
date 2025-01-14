@@ -30,4 +30,4 @@ Power BI - Creating charts
 
 computed correlation co-efficients to measure relationships
 
-[Inflation vs. NSE Data](
+[Inflation vs. NSE Data](images/correlation-charts-1.png)
